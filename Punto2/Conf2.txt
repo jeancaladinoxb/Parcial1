@@ -1,0 +1,10 @@
+Estados=Q0,Q1,Q2
+Alfabeto=letra,digito
+Inicial=Q0
+Finales=Q1
+Q0,letra,Q1
+Q0,digito,Q2
+Q1,letra,Q1
+Q1,digito,Q1
+Q0,otro,Q2
+Q1,otro,Q2
