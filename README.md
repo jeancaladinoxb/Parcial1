@@ -1,4 +1,4 @@
-#Parcial 1 – Lenguajes de Programación
+##Parcial 1 – Lenguajes de Programación
 
 Punto 1 – AFD para a* b* c*
 
@@ -13,7 +13,7 @@ Se implementó un AFD en Python que lee su configuración desde un archivo Conf1
 
 El programa muestra si la cadena es aceptada o rechazada, junto con el recorrido de estados.
 
-#Punto 2 – AFD para Identificadores
+##Punto 2 – AFD para Identificadores
 
 Se usó la expresión regular:
 
@@ -26,7 +26,7 @@ Se agregó una función para clasificar cada carácter como letra, dígito u otr
 
 Se hicieron pruebas con identificadores válidos.
 
-#Punto 3 – Calculadora con Flex y Bison
+##Punto 3 – Calculadora con Flex y Bison
 
 Se implementó una calculadora en C con operaciones básicas  valor absoluto y raíz cuadrada.
 
@@ -43,7 +43,7 @@ sqrt 9
 | -5 |
 2.5 * 4
 
-#Punto 4 – Comparación Compilado vs Interpretado
+##Punto 4 – Comparación Compilado vs Interpretado
 
 Se usó la función recursiva de Fibonacci.
 
@@ -57,7 +57,7 @@ Se calcularon valores como Fib(40) y se compararon los tiempos de ejecución.
 
 Se observó que C ejecuta mucho más rápido que Python en este caso.
 
-#Punto 5 – ANTLR y Fibonacci
+##Punto 5 – ANTLR y Fibonacci
 
 Se creó una gramática en ANTLR (punto5.g4) para reconocer expresiones del tipo:
 
